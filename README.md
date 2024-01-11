@@ -1,4 +1,4 @@
-# DS-Projects
+# Data Science-Projects
 
 Explore a collection of hands-on projects showcasing a diverse range of data science skills and applications. From predictive modeling to data visualization, each project demonstrates my proficiency in extracting meaningful insights from data. Whether you're a fellow data enthusiast, potential collaborator, or curious learner, this repository is a hub for innovation and exploration.
 
